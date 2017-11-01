@@ -1,3 +1,1 @@
-import sqlite3 
-
-print 'imported'
+print 'Hello World'
